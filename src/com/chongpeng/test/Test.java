@@ -11,5 +11,6 @@ public class Test {
         System.out.println("git666");
         System.out.println("git888");
         System.out.println("git777");
+        System.out.println("git777");
     }
 }
